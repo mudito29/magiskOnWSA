@@ -1,0 +1,2 @@
+# magiskOnWSA
+MAGISKONWSA
